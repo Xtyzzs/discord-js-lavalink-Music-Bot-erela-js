@@ -1,14 +1,14 @@
 {
-   "token": "Bot Token",
-   "prefix": "?",
+   "token": "OTE5NjAxNjg2NDg0NDg4MjIy.YbYLzw.pQSGYMIhPKVjEIEGL6MrekMRGTM",
+   "prefix": "orbit/",
    "ownerIDS": [
-      "442355791412854784"
+      "917706893542187048"
    ],
    
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
-      "text2": "By: milrato.dev",
-      "type": "PLAYING",
+      "text": "played {songsplayed} Songs on {guildcount} Guilds",
+      "text2": "orbit/ help",
+      "type": "STREAMING",
       "url": "https://twitch.tv/#"
    },
    "clientsettings": {
@@ -22,7 +22,7 @@
    },
 
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9",
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2"
    }
 }
